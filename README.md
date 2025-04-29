@@ -1,6 +1,6 @@
 ### Name: Ganesh G.
 ### Reg No.: 212223230059
-### Expriment 3
+### Expriment 4
 
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
